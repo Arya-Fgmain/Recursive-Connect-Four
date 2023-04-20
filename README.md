@@ -9,4 +9,12 @@ The classes are outlined here.
 **Slot**: represents the pieces in the game. Each slot has an integer value which represents its color (red/black). This is used to print the appropriate flag for each piece -- (R) for red and (B) for black.
 **Player**: represents the players, each player has an ID (either 0/1) that is used to determine who's turn it is.
 
+**Sys**: the game system (the engine). It contains the board, which is represented as a 2D array of Slot objects. It does the following:
+* Initializes the grid and players.
+* Checks if the game has ended by:
+* * Checks the board diagonally to see if 4 pieces of the same color have been arranged for a winning position.
+* * Checks the rows & columns for a winning move.
+* Performs a move requested by the user.
+
+
 
