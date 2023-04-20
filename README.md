@@ -1,6 +1,6 @@
 <img width="940" alt="Screenshot 2023-04-19 at 8 18 03 PM" src="https://user-images.githubusercontent.com/97604329/233249630-d8b1c30c-8756-4c30-9679-c2cff8dc0285.png">
 
-## So... *Recursive* Connect Four?
+## So... *Recursive* Connect Four? 🧐
 I made this game for fun back in 2021. It's built entirely in Java, using Object-Oriented Programming principles.  
 It was inspired by TicTacToe, a Java adaptation that I made previously.
 
@@ -23,6 +23,6 @@ The classes are outlined here. The Sys and Displayer classes also have detailed 
 **Main**: used Sys and Displayer to run the main game loop.
 
 ## Check it out!
-Download the .java files. Make sure you have both Java and the Java Development Kit (JDK) installed. In your terminal, run the command 'javac \*.java' to compile all the .java files. Then run 'java ONT_Main.java' to play the game.
+Download the .java files. Make sure you have both Java and the Java Development Kit (JDK) installed. In your terminal, run the command 'javac \*.java' to compile all the .java files. Then run 'java ONT_Main.java' to play the game.  
 🏅Have fun playing!🏅
 
