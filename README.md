@@ -5,7 +5,7 @@ I made this game for fun back in 2021. It's built entirely in Java, using Object
 It was inspired by TicTacToe, a Java adaptation that I made previously.
 
 ## How does it work?
-The classes are outlined here.
+The classes are outlined here. The Sys and Displayer classes also have detailed Javadoc available.
 
 **Slot**: represents the pieces in the game. Each slot has an integer value which represents its color (red/black). This is used to print the appropriate flag for each piece -- (R) for red and (B) for black.  
 
