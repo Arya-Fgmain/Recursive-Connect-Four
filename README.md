@@ -12,8 +12,8 @@ The classes are outlined here.
 **Sys**: the game system (the engine). It contains the board, which is represented as a 2D array of Slot objects. It does the following:
 * Initializes the grid and players.
 * Checks if the game has ended by:
-*  Checks the board diagonally to see if 4 pieces of the same color have been arranged for a winning position.
-*  Checks the rows & columns for a winning move.
+* * Checks the board diagonally to see if 4 pieces of the same color have been arranged for a winning position.
+* * Checks the rows & columns for a winning move.
 * Performs a move requested by the user.
 
 
